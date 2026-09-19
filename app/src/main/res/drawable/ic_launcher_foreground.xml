@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Folder body outline / shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,35 C27,33.3 28.3,32 30,32 L44,32 C45.2,32 46.3,32.7 46.8,33.8 L49.2,38 L78,38 C79.7,38 81,39.3 81,41 L81,73 C81,74.7 79.7,76 78,76 L30,76 C28.3,76 27,74.7 27,73 Z" />
+    <!-- Inner contrast cutout -->
+    <path
+        android:fillColor="#111111"
+        android:pathData="M31,43 L77,43 L77,72 L31,72 Z" />
+    <!-- Dot Matrix Rows in file manager folder interior -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,49 A1.5,1.5 0 1,0 37,52 A1.5,1.5 0 1,0 37,49 Z M43,49 A1.5,1.5 0 1,0 43,52 A1.5,1.5 0 1,0 43,49 Z M49,49 A1.5,1.5 0 1,0 49,52 A1.5,1.5 0 1,0 49,49 Z M55,49 A1.5,1.5 0 1,0 55,52 A1.5,1.5 0 1,0 55,49 Z M61,49 A1.5,1.5 0 1,0 61,52 A1.5,1.5 0 1,0 61,49 Z M67,49 A1.5,1.5 0 1,0 67,52 A1.5,1.5 0 1,0 67,49 Z M37,56 A1.5,1.5 0 1,0 37,59 A1.5,1.5 0 1,0 37,56 Z M43,56 A1.5,1.5 0 1,0 43,59 A1.5,1.5 0 1,0 43,56 Z M49,56 A1.5,1.5 0 1,0 49,59 A1.5,1.5 0 1,0 49,56 Z M55,56 A1.5,1.5 0 1,0 55,59 A1.5,1.5 0 1,0 55,56 Z M61,56 A1.5,1.5 0 1,0 61,59 A1.5,1.5 0 1,0 61,56 Z M37,63 A1.5,1.5 0 1,0 37,66 A1.5,1.5 0 1,0 37,63 Z M43,63 A1.5,1.5 0 1,0 43,66 A1.5,1.5 0 1,0 43,63 Z M49,63 A1.5,1.5 0 1,0 49,66 A1.5,1.5 0 1,0 49,63 Z" />
+    <!-- Signature Nothing Red Dot Accent -->
+    <path
+        android:fillColor="#D71921"
+        android:pathData="M69,63 A3.5,3.5 0 1,0 69,70 A3.5,3.5 0 1,0 69,63 Z" />
+</vector>

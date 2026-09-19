@@ -1,0 +1,6 @@
+{
+  "name": "Nothing Explorer",
+  "description": "Minimalist Nothing OS-style file manager with root/system partition access, cloud mounts, SMB/FTP, OpenVPN & Sophos VPN client, and PIN-secured Safe Folder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
